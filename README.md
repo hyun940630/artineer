@@ -5,10 +5,10 @@
 
 ## ScreenShots
 <div>
-  <img width="210" src="https://user-images.githubusercontent.com/33711323/64933731-72ce1500-d881-11e9-81b1-3ec90b4d3b13.jpg">
-  <img width="210" src="https://user-images.githubusercontent.com/33711323/64933733-7366ab80-d881-11e9-9279-7b02c74e84ca.jpg">
-  <img width="210" src="https://user-images.githubusercontent.com/33711323/64933734-7366ab80-d881-11e9-9272-636e31cc6ccf.jpg">
-  <img width="210" src="https://user-images.githubusercontent.com/33711323/64933736-73ff4200-d881-11e9-9ffe-17c9d351ea5c.jpg">
+  <img width="810" src="https://user-images.githubusercontent.com/33711323/64934340-1a991200-d885-11e9-99fd-b6974c94d06d.png">
+  <img width="810" src="https://user-images.githubusercontent.com/33711323/64934341-1a991200-d885-11e9-8b09-f4fb51157278.png">
+  <img width="810" src="https://user-images.githubusercontent.com/33711323/64934342-1b31a880-d885-11e9-8d4f-ae84db50e5a3.png">
+  <img width="810" src="https://user-images.githubusercontent.com/33711323/64934343-1b31a880-d885-11e9-8882-498178b09a94.png">
 </div>  
 
 </br>
